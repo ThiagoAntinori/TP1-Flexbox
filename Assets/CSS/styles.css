@@ -74,11 +74,13 @@ body{
 .noticia-principal {
     background: white;
     margin-bottom: 2rem;
+    border-radius: 2rem;
 }
 
 .noticia-principal img {
     width: 100%;
     height: auto;
+    border-radius: 2rem;
 }
 
 .cuerpo-noticia {
@@ -95,12 +97,14 @@ body{
     background: white;
     padding: 1rem;
     border-top: 3px solid #1a1a1a;
+    border-radius: 2rem;
 }
 
 .noticia-secundaria img {
     width: 100%;
     height: 150px;
     object-fit: cover;
+    border-radius: 2rem;
 }
 
 .ad-placeholder {
@@ -117,12 +121,14 @@ body{
     height: 250px;
     background-color: #bbbbbb;
     margin-top: 10px;
+    border-radius: 1rem;
 }
 
 .trending {
     background-color: white;
     padding: 15px;
     border: 1px solid #ccc;
+    border-radius: 1rem;
 }
 
 .trending li {
